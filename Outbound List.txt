@@ -1,0 +1,66 @@
+
+Fri Nov 11 10:10:39 2022
+Outbound record:----------------------------------------------------------------------------------------
+-------------------------
+Item name:Elements		Item code:3	Item colour:none		Item quantity:12	 Num of Brands:5
+
+Brand1-> |Name:1	|Brand code:1	|Brand quantity:12	|Brand price:0
+Brand2-> |Name:2	|Brand code:2	|Brand quantity:0	|Brand price:0
+Brand3-> |Name:3	|Brand code:3	|Brand quantity:0	|Brand price:0
+Brand4-> |Name:4	|Brand code:4	|Brand quantity:0	|Brand price:0
+Brand5-> |Name:5	|Brand code:5	|Brand quantity:0	|Brand price:0
+
+-------------------------
+Item name:city		Item code:6	Item colour:none		Item quantity:132	 Num of Brands:4
+
+Brand1-> |Name:nj	|Brand code:1	|Brand quantity:0	|Brand price:10
+Brand2-> |Name:bj	|Brand code:2	|Brand quantity:0	|Brand price:20
+Brand3-> |Name:hj	|Brand code:3	|Brand quantity:0	|Brand price:30
+Brand4-> |Name:南京	|Brand code:4	|Brand quantity:132	|Brand price:45
+Price sum of outbound cargo:5940--------------------------------------------------------------------------------------------------------
+
+Fri Nov 11 10:18:00 2022
+Outbound record:----------------------------------------------------------------------------------------
+-------------------------
+Item name:Elements		Item code:3	Item colour:none		Item quantity:200	 Num of Brands:5
+
+Brand1-> |Name:1	|Brand code:1	|Brand quantity:0	|Brand price:0
+Brand2-> |Name:2	|Brand code:2	|Brand quantity:200	|Brand price:0
+Brand3-> |Name:3	|Brand code:3	|Brand quantity:0	|Brand price:0
+Brand4-> |Name:4	|Brand code:4	|Brand quantity:0	|Brand price:0
+Brand5-> |Name:5	|Brand code:5	|Brand quantity:0	|Brand price:0
+
+-------------------------
+Item name:city		Item code:6	Item colour:none		Item quantity:68	 Num of Brands:4
+
+Brand1-> |Name:nj	|Brand code:1	|Brand quantity:0	|Brand price:10
+Brand2-> |Name:bj	|Brand code:2	|Brand quantity:0	|Brand price:20
+Brand3-> |Name:hj	|Brand code:3	|Brand quantity:0	|Brand price:30
+Brand4-> |Name:南京	|Brand code:4	|Brand quantity:68	|Brand price:45
+
+-------------------------
+Item name:电脑		Item code:10	Item colour:黑		Item quantity:123	 Num of Brands:3
+
+Brand1-> |Name:苹果	|Brand code:1	|Brand quantity:0	|Brand price:12
+Brand2-> |Name:联想	|Brand code:2	|Brand quantity:123	|Brand price:12
+Brand3-> |Name:戴尔	|Brand code:3	|Brand quantity:0	|Brand price:10
+Price sum of outbound cargo:4536--------------------------------------------------------------------------------------------------------
+
+Fri Nov 11 23:00:50 2022
+Outbound record:----------------------------------------------------------------------------------------
+-------------------------
+Item name:Cup		Item code:2	Item colour:blue		Item quantity:321231312	 Num of Brands:2
+
+Brand1-> |Name:mine	|Brand code:1	|Brand quantity:321231312	|Brand price:0
+Brand2-> |Name:yours	|Brand code:2	|Brand quantity:0	|Brand price:0
+Price sum of outbound cargo:0--------------------------------------------------------------------------------------------------------
+
+Thu Nov 17 20:07:10 2022
+Outbound record:----------------------------------------------------------------------------------------
+-------------------------
+Item name:电脑		Item code:10	Item colour:黑		Item quantity:32	 Num of Brands:3
+
+Brand1-> |Name:苹果	|Brand code:1	|Brand quantity:0	|Brand price:12
+Brand2-> |Name:联想	|Brand code:2	|Brand quantity:0	|Brand price:12
+Brand3-> |Name:戴尔	|Brand code:3	|Brand quantity:32	|Brand price:10
+Price sum of outbound cargo:320--------------------------------------------------------------------------------------------------------
